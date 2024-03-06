@@ -1,4 +1,5 @@
 #  Program to check if a file exists and then read its contents
+
 import os
 
 
